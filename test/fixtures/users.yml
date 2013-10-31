@@ -5,7 +5,7 @@
 # below each fixture, per the syntax in the comments below
 #
 anthony:
-first_name: "Anthony1"
-last_name: "Broadbent1"
-profile_name: "anthony-btest"
-email: "anthony@m7k.co.uk1"
+  first_name: "Anthony1"
+  last_name: "Broadbent1"
+  profile_name: "anthonys"
+  email: "anthony@m7k.co.uk1"
